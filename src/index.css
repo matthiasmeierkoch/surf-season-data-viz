@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@tailwind utilities;
+
+/* Your custom styles below */
 
 body {
   margin: 0;
