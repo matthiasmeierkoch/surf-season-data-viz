@@ -3,6 +3,7 @@ import D3WorldMap from './maps';
 import D3TimelineChart from './data-viz';
 import { destinationsInfo } from './data';
 import './App.css';
+import './index.css'; // Ensure global styles are imported
 
 function App() {
   return (
